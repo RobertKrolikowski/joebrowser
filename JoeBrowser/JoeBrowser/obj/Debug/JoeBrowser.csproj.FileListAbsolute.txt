@@ -1,0 +1,14 @@
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\bin\Debug\JoeBrowser.exe.config
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\bin\Debug\JoeBrowser.exe
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\bin\Debug\JoeBrowser.pdb
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\MainWindow.g.cs
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\App.g.cs
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser_MarkupCompile.cache
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser_MarkupCompile.lref
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\MainWindow.baml
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser.g.resources
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser.Properties.Resources.resources
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser.csproj.GenerateResource.Cache
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser.exe
+C:\programowanie\visual 2015\c#\WPF\JoeBrowser\JoeBrowser\obj\Debug\JoeBrowser.pdb
